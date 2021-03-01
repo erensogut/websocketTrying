@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/websocketTrying/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/websocketTrying/static/js/main.c4a5498e.chunk.js",
-    "main.js.map": "/websocketTrying/static/js/main.c4a5498e.chunk.js.map",
+    "main.js": "/websocketTrying/static/js/main.5a770e0e.chunk.js",
+    "main.js.map": "/websocketTrying/static/js/main.5a770e0e.chunk.js.map",
     "runtime-main.js": "/websocketTrying/static/js/runtime-main.66ac0362.js",
     "runtime-main.js.map": "/websocketTrying/static/js/runtime-main.66ac0362.js.map",
     "static/js/2.7cf96116.chunk.js": "/websocketTrying/static/js/2.7cf96116.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.66ac0362.js",
     "static/js/2.7cf96116.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c4a5498e.chunk.js"
+    "static/js/main.5a770e0e.chunk.js"
   ]
 }
