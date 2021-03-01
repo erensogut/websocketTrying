@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/websocketTrying/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/websocketTrying/static/js/main.c4a5498e.chunk.js",
+    "main.js.map": "/websocketTrying/static/js/main.c4a5498e.chunk.js.map",
+    "runtime-main.js": "/websocketTrying/static/js/runtime-main.66ac0362.js",
+    "runtime-main.js.map": "/websocketTrying/static/js/runtime-main.66ac0362.js.map",
+    "static/js/2.7cf96116.chunk.js": "/websocketTrying/static/js/2.7cf96116.chunk.js",
+    "static/js/2.7cf96116.chunk.js.map": "/websocketTrying/static/js/2.7cf96116.chunk.js.map",
+    "static/js/3.3d491a87.chunk.js": "/websocketTrying/static/js/3.3d491a87.chunk.js",
+    "static/js/3.3d491a87.chunk.js.map": "/websocketTrying/static/js/3.3d491a87.chunk.js.map",
+    "index.html": "/websocketTrying/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/websocketTrying/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7cf96116.chunk.js.LICENSE.txt": "/websocketTrying/static/js/2.7cf96116.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/websocketTrying/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66ac0362.js",
+    "static/js/2.7cf96116.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c4a5498e.chunk.js"
+  ]
+}
